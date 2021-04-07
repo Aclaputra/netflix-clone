@@ -1,4 +1,6 @@
-# Build Netflix clone with React & Firebase
+## 🐱‍👤— Build Netflix clone with React & Firebase
+![](Readme/client-side.JPG)
+### Not finished yet.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
