@@ -1,4 +1,4 @@
-## 🐱‍👤— Build Netflix clone with React & Firebase
+## 🐱‍👤— Build Netflix clone using React & Firebase
 ![](Readme/client-side.JPG)
 ### Not finished yet.
 # Getting Started with Create React App
