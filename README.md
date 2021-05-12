@@ -1,4 +1,4 @@
-## 🐱‍👤— Build Netflix clone using React, Firebase, The Movie Database (TMDb) API & Youtube API
+## 🐱‍👤— Built Netflix clone using React, Firebase, The Movie Database (TMDb) API & Youtube API
 ![](Readme/client-side.JPG)
 ### Not finished yet.
 # Getting Started with Create React App
