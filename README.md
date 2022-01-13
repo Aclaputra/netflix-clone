@@ -1,7 +1,7 @@
 ## 🐱‍👤— Netflix clone
 Built Netflix clone using React JS Framework, The Movie Database (TMDb) API & Youtube API
 ![](Readme/client-side.JPG)
-### Not finished yet.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
